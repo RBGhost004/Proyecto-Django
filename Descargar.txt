@@ -1,0 +1,1 @@
+Recordar descomprimir la carpeta CORE y dejar dentro de la main ProyectoDjango para que funcione. Debido a su cantidad de archivos, fue necesario comprimirla para cargarla.
